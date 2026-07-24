@@ -1,0 +1,2 @@
+# J KARTHIK - 192472136
+CSA6502 - Generative AI
